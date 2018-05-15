@@ -1,0 +1,22 @@
+Camera:
+ Thermal:
+  FOV: 
+   x: 32
+   y: 26
+  RES:
+   x: 640
+   y: 512
+ Rgb:
+  FOV:
+   x: 35.2
+   y: 24
+  RES:
+   x: 6000
+   y: 4000
+ Multispectral:
+  FOV:
+   x: 38
+   y: 30
+  RES:
+   x: 1280
+   y: 1024
